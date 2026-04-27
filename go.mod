@@ -1,3 +1,2 @@
-module github.com/yourusername/go-demo-project
-
+module lottamatic-cl/go-benchmark
 go 1.22
